@@ -1,2 +1,2 @@
-# talks
-Collection of talks and panels 
+# Talks, workshops, panels
+Collection of my speaking engagements.
